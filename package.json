@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.4.1",
     "formidable": "^1.0.17",
-    "fs-extra": "^0.30.0"
+    "fs-extra": "^0.30.0",
+    "request": "^2.73.0"
   }
 }
